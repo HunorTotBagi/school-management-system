@@ -15,4 +15,4 @@ jobs:
         with:
           disable-reviews: true
           github-token: "${{ secrets.GITHUB_TOKEN }}"
-          valid-labels: "backend, enhancement, bug, frontend, refactor"
+          valid-labels: "backend, enhancement, bug, frontend, refactor, dependencies"
